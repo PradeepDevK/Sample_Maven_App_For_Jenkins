@@ -8,7 +8,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <!-- Change the packaging from jar to war -->
-  <packaging>war</packaging>
+  <!-- <packaging>war</packaging> -->
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
